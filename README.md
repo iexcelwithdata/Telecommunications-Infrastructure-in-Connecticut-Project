@@ -142,22 +142,3 @@ While the findings highlight meaningful patterns and analytical techniques, they
 
 ---
 
-## ⚙️ Repository Structure  
-
-```plaintext
-📁 Connecticut-Telecom-Analysis/
-├── 📊 Power BI Dashboard/
-│   ├── Connecticut PowerBi.pdf
-│   ├── Connecticut PowerBi.pbix
-├── 📄 README.md
-├── 📂 Data/
-│   ├── Raw_Data.xlsx
-│   ├── Cleaned_Data.csv
-│   ├── Data_Dictionary.xlsx
-├── 📂 Images/
-│   ├── banner_connecticut_telecom.png
-│   ├── Telecommunications in Connecticut.png
-├── 🧮 Scripts/
-│   ├── Data_Cleaning_MCode.txt
-│   ├── DAX_Measures.txt
-│   ├── Supporting_SQL_Scripts.sql
