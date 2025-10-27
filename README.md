@@ -95,7 +95,7 @@ How can infrastructure investment be optimized to ensure equitable telecom acces
 ## 📊 Dashboard Preview  
 
 <p align="center">
-  <img src="Images/Telecommunications in Connecticut.png" alt="Connecticut Telecommunications Dashboard Preview" width="85%">
+  <img src="Images/Telecommunications in Conneticut.png" alt="Connecticut Telecommunications Dashboard Preview" width="85%">
 </p>
 
 <p align="center">
