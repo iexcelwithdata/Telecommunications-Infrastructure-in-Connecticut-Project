@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="Images/banner_connecticut_telecom.png" alt="Connecticut Telecom Infrastructure Analysis Banner" width="100%">
-</p>
-
 # 📡 Telecommunications Infrastructure & Broadband Equity Analysis — Connecticut  
 ### Power BI · SQL · DAX · Data Cleaning (M Code) · Infrastructure Analytics
 
@@ -10,6 +5,10 @@
 **Industry:** Telecommunications | Broadband & Infrastructure Planning  
 **Tools:** Power BI | Excel | SQL | Power Query | DAX | Python (Exploratory Stats)
 
+<!-- Banner -->
+<p align="center">
+  <img src="Images/Banner for telecoms.jpg" alt="Connecticut Telecom Infrastructure Analysis Banner" width="100%">
+</p>
 ---
 
 ## 🧭 Executive Summary  
@@ -133,6 +132,13 @@ How can infrastructure investment be optimized to ensure equitable telecom acces
 - Add **forecasting models** to predict tower capacity based on urbanization trends.  
 - Expand to **regional comparative studies** (e.g., Massachusetts, Rhode Island).  
 - Explore **machine learning clustering** to classify underserved zones by severity.  
+
+---
+
+### ⚠️ Disclaimer
+This project was conducted using a **sample dataset** that does **not represent the full official list of telecommunications towers in Connecticut** as maintained by the Connecticut Siting Council.  
+All analyses, insights, and KPIs were developed based on this limited dataset for **educational and portfolio demonstration purposes**.  
+While the findings highlight meaningful patterns and analytical techniques, they should not be interpreted as a definitive reflection of the state’s telecommunications infrastructure.
 
 ---
 
