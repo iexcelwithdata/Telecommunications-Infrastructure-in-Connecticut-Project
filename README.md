@@ -127,11 +127,10 @@ How can infrastructure investment be optimized to ensure equitable telecom acces
 ---
 
 ## 🔭 Next Steps  
-
-- Integrate **real-time broadband performance APIs** for live monitoring.  
+ 
 - Add **forecasting models** to predict tower capacity based on urbanization trends.  
 - Expand to **regional comparative studies** (e.g., Massachusetts, Rhode Island).  
-- Explore **machine learning clustering** to classify underserved zones by severity.  
+  
 
 ---
 
