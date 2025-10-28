@@ -49,6 +49,22 @@ How can infrastructure investment be optimized to ensure equitable telecom acces
 
 ---
 
+## 🧱 Data Model — Star Schema
+
+A simplified **Star Schema** was used to structure the telecommunications dataset, enabling efficient DAX calculations, relationship management, and performance optimization in Power BI.  
+
+<p align="center">
+  <img src="Images/Data Model.png" alt="Telecommunications Star Schema Data Model" width="85%">
+</p>
+
+**Model Highlights:**
+- Central **Fact Table**: Tower performance and broadband metrics  
+- **Dimension Tables**: Towns, Providers, Structure Owners, and Tower Types  
+- Established **one-to-many relationships** for optimized aggregation  
+- Enabled **calculated columns** and **DAX measures** for KPIs like *Tower Gap Index* and *Speed Equity Index*  
+
+---
+
 ## 🧠 Skills Demonstrated  
 
 - **Power Query (M Code):** Complex column standardization, fuzzy matching, multi-condition replacements, data cleansing at scale.  
